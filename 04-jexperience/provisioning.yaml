@@ -22,6 +22,8 @@
   - "mvn:org.jahia.se.modules/se-jExp-utils"
   - "mvn:org.jahia.se.modules/industrial"
   - "mvn:org.jahia.se.modules/industrial-website"
+  - "mvn:org.jahia.se.modules/kibana-dashboards-provider"
+
   autoStart: true
   uninstallPreviousVersion: true
 
